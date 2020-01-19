@@ -1,0 +1,11 @@
+{
+    "name": "first_example",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "David Martinez Sepulveda davidmartinezsepulveda@gmail.com",
+    "main": "myfirst.js",
+    "scripts": {
+        "start": "node myfirs.js"
+    },
+    "dependencies": {}
+}
